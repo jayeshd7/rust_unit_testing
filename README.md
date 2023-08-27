@@ -1,6 +1,6 @@
 ### RUST_UNIT_TESTING
 
-#Commands
+# Commands
 plugin - rust-analyzer, codelldb
 
 rustc --version
@@ -10,7 +10,7 @@ rustup --version
 
 
 
-# Cargo project setup steps -
+### Cargo project setup steps -
 
 1. cargo new --lib rust_unit_testing 
 2. code rust_unit_testing
